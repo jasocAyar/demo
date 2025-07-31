@@ -1,2 +1,4 @@
 My first git file
 Adding some more text
+Staging then unstaging
+Some changes I'm not ready to commit yet
