@@ -20,3 +20,6 @@ def func_1(x, y):
 
 def new_func(x, y, z):
     return x * y * z
+
+def new_func2(a, b):
+    return a - b
