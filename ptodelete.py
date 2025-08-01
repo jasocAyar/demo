@@ -1,4 +1,7 @@
+import logging
 
-print("hello")
+def say_hello():
+    logging.basicConfig(level=logging.INFO)
+    logging.info("Hello, world!")
 
-print("change 1")
+say_hello()
