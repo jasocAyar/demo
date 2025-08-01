@@ -1,4 +1,4 @@
+def say_hello(name):
+    print(f"Hello, {name}!")
 
-print("hello")
-
-print("change 1")
+say_hello("Alice")
