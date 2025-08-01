@@ -10,3 +10,7 @@ def say_hello():
     logging.info("Hello, world!")
 
 say_hello()
+
+
+def new_func(x, y, z):
+    return x * y * z
